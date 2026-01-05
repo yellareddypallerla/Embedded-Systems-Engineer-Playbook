@@ -1,2 +1,3 @@
-# new-life1
+# embedded-systems-engineer-playbook
+
 for interview preparation fundamentals
